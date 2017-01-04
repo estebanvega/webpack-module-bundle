@@ -5,7 +5,7 @@ import { meowRouting } from './meow.routing';
 @NgModule({
   imports: [
     meowRouting
-  ]
+  ],
   declarations: [
     MeowComponent
   ]
